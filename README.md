@@ -1,7 +1,6 @@
 # data-platform-customer-group-sql 
 
-data-platform-customer-group-sql は、周辺業務システムと連携された得意先グループを保存するSQLテーブルを作成するためのレポジトリです。    
-data-platform-customer-group-sql は、そのままクラウド環境におけるアプリケーションにも、適用可能です。    
+data-platform-customer-group-sql は、データ連携基盤において、得意先グループを保存するSQLテーブルを作成するためのレポジトリです。   
 
 ## 前提条件  
 data-platform-customer-group-sql  は、データ連携にあたり、API を利用し、本レポジトリ の sql 設定ファイルの内容は、下記 URL の API 仕様を前提としています。  
